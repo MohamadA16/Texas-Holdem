@@ -1,4 +1,4 @@
-# Simple Texas Hold'em Project
+#Texas Hold'em Project
 
 This project is a simple command-line Texas Hold'em game written in Python. It uses separate files for cards, decks, players, hand evaluation, and the game itself.
 
